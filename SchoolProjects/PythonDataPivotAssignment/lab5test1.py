@@ -2,8 +2,7 @@
 
 '''
 find_first_names.py
-  Author(s): Adnan Rangwala (1275671), Ramy Abdulwahed (1299971)
-  Earlier contributors(s): Deborah Stacey, Andrew Hamilton-Wright, Rako Ahmed 
+
 
   Project: Lab Assignment 2 Script (Iteration 0)
   Date of Last Update: Jan 25, 2024.

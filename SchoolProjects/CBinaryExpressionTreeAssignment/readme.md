@@ -1,10 +1,5 @@
 # CIS2520-F24-A2
 
-## Student Information 
-Name : Adnan Rangwala
-
-Student Number : 1275671
-
 ## Assignment Overview
 What is the assignment about?  
 Explain the purpose of the program and what it accomplishes.

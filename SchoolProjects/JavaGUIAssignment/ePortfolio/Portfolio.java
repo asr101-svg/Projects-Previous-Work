@@ -1,6 +1,4 @@
 /*
- * Name Adnan Rangwala
- * ID: 1275671
  * Program Title: Portfolio.java
  * Description: Main portfolio for assignment three of object oriented programming, using GUIs for implementation.
  */

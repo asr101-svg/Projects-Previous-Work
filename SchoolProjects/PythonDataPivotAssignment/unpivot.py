@@ -2,8 +2,7 @@
 
 '''
 unpivot.py
-  Author(s): Adnan Rangwala (1275671), Ananya Dikshit(1261685)
-  Earlier contributors(s): Deborah Stacey, Andrew Hamilton-Wright, Rako Ahmed, Ramy Abdulwaheed
+
 
   Project: Lab Assignment 5 Script (Iteration 0)
   Date of Last Update: Feb 15, 2024.

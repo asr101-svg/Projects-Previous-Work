@@ -1,8 +1,6 @@
 package ePortfolio;
 import java.util.*;
 /*
- * Name: Adnan Rangwala
- * ID: 1275671
  * Program Title: Stock.java
  * Description: Stock user class used by portfolio file
  */

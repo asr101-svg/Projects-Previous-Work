@@ -1,0 +1,30 @@
+DB Login view (10 marks)
+• User enters all the credentials X
+• Correctly creates a connection to the database with entered credentials X
+• Displays an error if a DB connection could not be established for any reason - e.g. because incorrect X
+credentials were entered.
+• Tables in the DB are correctly created, and creation happens only if they do not already exist X
+
+Main view (30 marks)
+• The view displays all the required details in table format, as specified in Module 1 X
+• Does not display invalid files X
+• Files are clickable X
+• Correctly updated when a file is modified or created X
+• Tables in the DB are correctly populated with the file information X
+• Correctly exits program X
+
+Card Detail view (30 marks) - showing parameters and adding / editing cards is graded separately
+• Displays correct information for the selected file X
+• Information can be modified as stated in Module 1 X
+• Changes to the contents of the Card Detail view are reflected on the disk and in the DB tables X
+• Correctly exits to main view X
+
+Create vCard (10 marks)
+• Create a new Card object, pass it to the parser, save it to the vCard file X
+• User enters all details using forms X
+• Validates user input and does not allow a user to create an invalid vCard file X
+• Files updated in the DB X
+
+DB View (20 marks)
+• Runs the two required queries and correctly displays the information stored in the tables X
+• Correctly exits to main view X
